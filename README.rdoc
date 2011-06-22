@@ -1,0 +1,31 @@
+= badges
+
+* http://github.com/tdoan/badges/
+
+== DESCRIPTION:
+
+* Create sheets of badges. Automatically sizes names to use largest font possible. Outputs PDF.
+
+== SYNOPSIS:
+
+  Clone repository
+  cd into directory
+  Read sample_badges.rb to see an example of how to create your customized badges
+  To run the sample, from the project directory, ./sample_badges.rb name_of_pdf_file.pdf
+
+== REQUIREMENTS:
+
+* ruby
+* rubygems
+* prawn
+
+== LICENSE:
+
+====================================================================
+Copyright (c) 2011 Tony Doan <tdoan@tdoan.com>.  All rights reserved.
+This software is licensed as described in the file COPYING, which
+you should have received as part of this distribution.  The terms
+are also available at http://github.com/tdoan/kang/tree/master/COPYING.
+If newer versions of this license are posted there, you may use a
+newer version instead, at your option.
+====================================================================
